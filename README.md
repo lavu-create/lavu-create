@@ -6,7 +6,7 @@
 📚 Strong interest in DSA, DBMS, and creative tech  
 🧠 Maths Lover | Creative Thinker | Problem Solver  
 💃 Former Performing Member of Mudra – College Dance Society  
-🚀 Open to Internships | Remote / Hybrid / On-site roles  
+🚀 Open to Internships | Remote 
 
 ---
 
