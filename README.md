@@ -1,35 +1,49 @@
 # 👋 Hi there, I'm Lavanya!
 
-🎓 B.Tech Computer Engineering Student (2nd Year)  
-💻 Aspiring Web Developer | Learning C++, Python, HTML, CSS, JavaScript  
-🌱 Currently exploring Git, GitHub, and building small web projects  
-📚 Strong interest in DSA, DBMS, and creative tech  
-🧠 Maths Lover | Creative Thinker | Problem Solver  
-💃 Former Performing Member of Mudra – College Dance Society  
-🚀 Open to Internships | Remote 
+🎓 3rd-Year B.Tech Computer Engineering Student @ Thapar Institute  
+💻 Aspiring Frontend Developer | Exploring AI-driven Projects  
+💡 Passionate about creativity, collaboration & making tech more human  
+💃 Former Member (1st Year) – *Mudra*, College Dance Society  
+🚀 Open to Internship Opportunities | Remote & Learning-Centric Roles  
 
 ---
 
-### 🔧 Tech Stack (Learning & Practicing)
-- 💻 Languages: C++, Python  
-- 🌐 Web: HTML, CSS, JavaScript (basic)  
-- 🔧 Tools: Git, GitHub (ongoing)  
-- 📘 Concepts: DSA, DBMS, OOP, SQL
+## 🔧 Tech Stack – Learning & Practicing
+
+- 💻 **Languages:** C++, Python  
+- 🌐 **Web:** HTML, CSS, JavaScript  
+- 🧰 **Tools:** Git, GitHub  
+- 📘 **Concepts:** DSA, DBMS, OOP, SQL  
+- 🎨 **Design:** Exploring basic UI/UX principles  
 
 ---
 
-### 📌 Currently Working On
-- Portfolio Website (HTML/CSS)
-- Python Mini Projects (Calculator, Games, Logic Building)
-- Version Control with Git
+## 🛠 Notable Projects
+
+- 🔨 [**Clario**](https://github.com/lavu-create/clario): A mood-aware productivity app using HTML, CSS, JS & AI logic (WCHL Hackathon + Internship Project)  
+- 🛍️ **Amazon Clone** (in progress): Replicating core Amazon UI using HTML, CSS & JavaScript to sharpen frontend skills  
+- 🌐 Personal Portfolio Website (HTML/CSS-based, in development)  
+- ⚙️ Python Mini Projects – logic games & small utilities  
 
 ---
 
-### 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/lavanya14369
-- ✉️ lavanya36914@gmail.com
-- 🌍 GitHub: lavu-create(https://github.com/lavu-create)
+## 👥 Community & Certifications
+
+- 🧑‍🏫 **Shortlisted Mentor** – IETE Students’ Forum  
+- 🚀 **Campus Ambassador (Marketing Intern)** – [Eduveda Academy](https://eduveda.academy)  
+- 🧩 **Participant** – WCHL 2025 Global Hackathon  
+- 🏆 **Certified** – Eduveda Academy, Internshala Trainings  
+- 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
 
 ---
 
-🔍 *“Still learning, still building, always curious!”*
+## 📫 Let's Connect!
+
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/lavanya14369)  
+- ✉️ **Email:** lavanya36914@gmail.com  
+- 🌍 [**GitHub**](https://github.com/lavu-create)  
+- 💬 *“Still learning, still building, always curious!”*
+
+---
+
+✨ Let’s learn, grow, and build meaningful things—together.
