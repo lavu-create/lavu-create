@@ -20,28 +20,28 @@
 
 ## 🛠 Notable Projects
 
-- 🔨 [**Clario**](https://github.com/lavu-create/clario): A mood-aware productivity app using HTML, CSS, JS & AI logic (WCHL Hackathon + Internship Project)  
-- 🛍️ **Amazon Clone** (in progress): Replicating core Amazon UI using HTML, CSS & JavaScript to sharpen frontend skills  
-- 🌐 Personal Portfolio Website (HTML/CSS-based, in development)  
+- 🗓️ [**Clario**](https://github.com/lavu-create/clario): A mood-aware productivity app using HTML, CSS, JS & AI logic (WCHL Hackathon + Internship Project)  
+- 🛒 **Amazon Clone** (in progress): Replicating core Amazon UI using HTML, CSS & JavaScript to sharpen frontend skills  
+- 🌐 Personal Portfolio Website (in progress): HTML/CSS-based  
 - ⚙️ Python Mini Projects – logic games & small utilities  
 
 ---
 
-## 👥 Involvement & Certifications
+## 🏅 Involvement & Certifications
 
-- 🚀 **Campus Ambassador (Marketing Intern)** – [Eduveda Academy](https://eduveda.academy)  
+- 📣 **Campus Ambassador (Marketing Intern)** – [Eduveda Academy](https://eduveda.academy)  
 - 🧩 **Participant** – WCHL 2025 Global Hackathon  
 - 📜 [**Certifications**](https://github.com/lavu-create/Certifications-Achievements): Eduveda Academy, Internshala Trainings (direct entry course)  
 - 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
 
 ---
 
-## 📫 Let's Connect!
+## 🤝 Let's Connect!
 
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/lavanya14369)
 - 🌍 [**GitHub**](https://github.com/lavu-create) 
 - ✉️ **Email:** lavanya36914@gmail.com 
-- 💬 *“Still learning, still building, always curious!”*
+- 🌱 *“Still learning, still building, always curious!”*
 
 ---
 
