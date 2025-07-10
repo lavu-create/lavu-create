@@ -22,7 +22,7 @@
 
 - 🗓️ [**Clario**](https://github.com/lavu-create/clario): A mood-aware productivity app using HTML, CSS, JS & AI logic (WCHL Hackathon + Internship Project)  
 - 🛒 **Amazon Clone** (in progress): Replicating core Amazon UI using HTML, CSS & JavaScript to sharpen frontend skills  
-- 🌐 Personal Portfolio Website (in progress): HTML/CSS-based  
+- 🌐 Personal Portfolio Website (in progress): Showcasing my skills, projects & resume
 - ⚙️ Python Mini Projects – logic games & small utilities  
 
 ---
