@@ -31,7 +31,7 @@
 
 - 🚀 **Campus Ambassador (Marketing Intern)** – [Eduveda Academy](https://eduveda.academy)  
 - 🧩 **Participant** – WCHL 2025 Global Hackathon  
-- 📜 **Certifications:** Eduveda Academy, Internshala Trainings (direct entry course)  
+- 📜 [**Certifications**](https://github.com/lavu-create/Certifications-Achievements): Eduveda Academy, Internshala Trainings (direct entry course)  
 - 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
 
 ---
