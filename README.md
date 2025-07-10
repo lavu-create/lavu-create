@@ -27,21 +27,20 @@
 
 ---
 
-## 👥 Community & Certifications
+## 👥 Involvement & Certifications
 
-- 🧑‍🏫 **Shortlisted Mentor** – IETE Students’ Forum  
 - 🚀 **Campus Ambassador (Marketing Intern)** – [Eduveda Academy](https://eduveda.academy)  
 - 🧩 **Participant** – WCHL 2025 Global Hackathon  
-- 🏆 **Certified** – Eduveda Academy, Internshala Trainings  
+- 📜 **Certifications:** Eduveda Academy, Internshala Trainings (direct entry course)  
 - 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/lavanya14369)  
-- ✉️ **Email:** lavanya36914@gmail.com  
-- 🌍 [**GitHub**](https://github.com/lavu-create)  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/lavanya14369)
+- 🌍 [**GitHub**](https://github.com/lavu-create) 
+- ✉️ **Email:** lavanya36914@gmail.com 
 - 💬 *“Still learning, still building, always curious!”*
 
 ---
