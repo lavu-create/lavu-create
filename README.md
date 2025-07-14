@@ -30,7 +30,7 @@
 ## 🏅 Involvement & Certifications
 
 - 📣 **Campus Ambassador (Marketing Intern)** – [Eduveda Academy]((https://eduveda.academy/))
-- **Campus Executive (Marketing Intern)** - [Alpha Innovation](https://www.alphainnovation.in/)
+- 🚀 **Campus Executive (Marketing Intern)** - [Alpha Innovation](https://www.alphainnovation.in/)
 - 🧩 **Participant** – [WCHL 2025 Global Hackathon](https://dorahacks.io/org/3634)  
 - 📜 [**Certifications**](https://github.com/lavu-create/Certifications-Achievements): Eduveda Academy, Internshala Trainings (direct entry course)  
 - 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
