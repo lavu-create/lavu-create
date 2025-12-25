@@ -29,7 +29,8 @@
 
 ---
 
-## 🏅 [Achievements & Certifications](https://github.com/lavu-create/Certifications-Achievements)
+## 🏅 Achievements & Certifications
+- 🎓 [**View certificates**](https://github.com/lavu-create/Certifications-Achievements)
 - 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
 
 ---
