@@ -30,7 +30,7 @@
 ---
 
 ## 🏅 Achievements & Certifications
-- 🎓 [**View certificates**](https://github.com/lavu-create/Certifications-Achievements)
+- 🎓 [**View certificates**](https://github.com/lavu-create/Certifications-Achievements/blob/main/README.md)
 - 💡 Always open to learning, collaborating, and contributing to beginner-friendly tech projects  
 
 ---
